@@ -1,0 +1,117 @@
+TANDEM END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 Emile Pieterse. All rights reserved.
+Last updated: 22 November 2026
+
+Please read this agreement before installing or using Tandem. By installing, copying or using Tandem you
+agree to it. If you do not agree, do not install or use Tandem.
+
+1. WHO THIS AGREEMENT IS WITH
+
+This agreement is between you and Emile Pieterse ("the Author"), who wrote and owns Tandem. "Tandem" means
+the Tandem desktop application, its installer, its updates, and the documentation that comes with it.
+
+2. WHAT YOU MAY DO
+
+The Author grants you a free, personal, non-exclusive, non-transferable, revocable licence to:
+
+  (a) install and use Tandem on any number of computers that you own or control, for personal or
+      commercial work; and
+  (b) let Tandem update itself from the Author's official release feed.
+
+You do not pay for Tandem. The Author may offer paid features or editions in the future; if so, they will
+come with their own terms, and this agreement will continue to cover the free edition you already have.
+
+3. WHAT YOU MAY NOT DO
+
+Tandem is licensed, not sold. Its source code is not published. You may not, and may not help or allow
+anyone else to:
+
+  (a) copy, modify, translate or create derivative works of Tandem, other than the copies the installer
+      makes on your own computers;
+  (b) decompile, disassemble, unpack the application archive, or otherwise reverse engineer Tandem, or try
+      to obtain its source code, except where applicable law expressly permits this despite this
+      restriction;
+  (c) redistribute, sell, rent, lend, sublicense, host or publish Tandem or its installer. Share the
+      official download page instead: https://github.com/emilepieterse/tandem-releases;
+  (d) remove or change any copyright notice, author credit, licence text or branding in Tandem; or
+  (e) present Tandem, or anything built from it, as your own work.
+
+4. THIRD-PARTY SOFTWARE AND SERVICES
+
+  (a) Open-source components. Tandem includes open-source software, including Git for Windows (MinGit) and
+      ripgrep, each provided under its own licence. Those licences are listed in THIRD-PARTY-NOTICES.txt,
+      installed next to Tandem, and take precedence over this agreement for those components.
+
+  (b) AI agents are separate products. Tandem works with Claude Code (made by Anthropic) and the Codex CLI
+      (made by OpenAI). Tandem does not include them. You install them from their publishers, you sign in
+      with your own accounts, and your use of them, including any usage limits and charges, is governed
+      by your agreements with Anthropic and OpenAI. Tandem never sees, stores or sends your sign-in
+      credentials for those services, and the Author does not pay for, resell or route your AI usage.
+      Tandem is not made, endorsed or supported by Anthropic or OpenAI. "Claude" and "Claude Code" are
+      trademarks of Anthropic PBC; "OpenAI", "ChatGPT" and "Codex" are trademarks of OpenAI.
+
+  (c) API keys. If you choose to give Tandem an API key, it is stored encrypted on your computer using
+      Windows' own protection and is passed only to the agent program it belongs to.
+
+5. YOUR FILES AND WHAT AGENTS DO
+
+Tandem lets AI agents read and change files and, depending on the mode you choose, run commands on your
+computer. You decide which folders you open, which mode each agent runs in, and which changes you keep.
+"Full auto" mode lets an agent run any command without asking. Agents can make mistakes.
+
+Tandem records snapshots so that most changes can be undone, but snapshots are not a backup. Keep your own
+backups and use version control for anything you care about. You are responsible for the folders you open
+in Tandem, for the modes you allow, and for reviewing what agents do before you rely on it.
+
+6. PRIVACY
+
+Tandem does not collect analytics or telemetry and does not send your code, prompts or files to the
+Author. Data leaves your computer only:
+
+  (a) when the agent programs you installed send your prompts and project content to their publishers,
+      under those publishers' privacy terms; and
+  (b) when Tandem checks the Author's public GitHub release feed for updates, which shares your IP
+      address and Tandem version with GitHub, as any download does.
+
+Tandem keeps its settings, conversation history and snapshots on your computer.
+
+7. UPDATES
+
+Tandem checks for updates and downloads them automatically. An update installs when you restart Tandem
+or the next time it closes. Updates are covered by this agreement unless they come with new terms. The
+Author has no obligation to provide updates, support or any particular feature.
+
+8. NO WARRANTY
+
+TANDEM IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR THAT IT
+WILL BE UNINTERRUPTED OR ERROR-FREE. THE AUTHOR DOES NOT WARRANT ANYTHING PRODUCED BY AI AGENTS, INCLUDING
+CODE, COMMANDS OR ADVICE.
+
+9. LIMITATION OF LIABILITY
+
+TO THE FULLEST EXTENT PERMITTED BY LAW, THE AUTHOR IS NOT LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR ANY LOSS OF DATA, FILES, CODE, PROFITS, REVENUE OR BUSINESS,
+ARISING FROM OR RELATED TO TANDEM OR ANYTHING AN AGENT DOES THROUGH IT, EVEN IF ADVISED OF THE
+POSSIBILITY. THE AUTHOR'S TOTAL LIABILITY FOR ALL CLAIMS IS LIMITED TO THE AMOUNT YOU PAID FOR TANDEM,
+WHICH FOR THE FREE EDITION IS ZERO. Some jurisdictions do not allow certain exclusions or limits; in those,
+they apply to the extent the law allows.
+
+10. ENDING THIS AGREEMENT
+
+This agreement lasts until it ends. It ends automatically if you break it. You may end it at any time by
+uninstalling Tandem. When it ends you must stop using Tandem and delete it. Sections 3, 5, 8, 9 and 11
+survive the end of the agreement.
+
+11. GENERAL
+
+This agreement is governed by the laws of the Republic of South Africa, without regard to conflict-of-law
+rules. If any part is found unenforceable, the rest stays in effect. Failure to enforce a part is not a
+waiver. This is the whole agreement between you and the Author about Tandem. The Author may update this
+agreement; the version shipped with an update applies from that update onward.
+
+12. CONTACT AND CREDITS
+
+Tandem is designed and developed by Emile Pieterse.
+Questions, bug reports and feedback: https://github.com/emilepieterse/tandem-releases/issues
